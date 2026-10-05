@@ -1,0 +1,3 @@
+Step 1: Created and initialized the ex03 directory and repository.
+Step 2: Created the README.md file with documentation and the section "Why Git Makes Development Easier".
+Step 3: Staged changes using 'git add README.md' and recorded the state using 'git commit -m "Add README.md for ex03"'.
