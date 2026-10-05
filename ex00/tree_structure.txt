@@ -1,0 +1,47 @@
+.:
+total 4
+drwxr-xr-x  6 mal-atoo _amman   63 Oct  4 10:08 .
+drwx------ 17 mal-atoo _amman 4096 Oct  4 10:02 ..
+drwxr-xr-x  2 mal-atoo _amman    6 Oct  4 10:01 archives
+drwxr-xr-x  2 mal-atoo _amman   32 Oct  4 10:17 ex00
+drwxr-xr-x  3 mal-atoo _amman   17 Oct  4 10:21 projects
+drwxr-xr-x  2 mal-atoo _amman    6 Oct  4 10:01 tools
+
+./archives:
+total 0
+drwxr-xr-x 2 mal-atoo _amman  6 Oct  4 10:01 .
+drwxr-xr-x 6 mal-atoo _amman 63 Oct  4 10:08 ..
+
+./ex00:
+total 0
+drwxr-xr-x 2 mal-atoo _amman 32 Oct  4 10:17 .
+drwxr-xr-x 6 mal-atoo _amman 63 Oct  4 10:08 ..
+-rw-r--r-- 1 mal-atoo _amman  0 Oct  4 10:22 tree_structure.txt
+
+./projects:
+total 0
+drwxr-xr-x 3 mal-atoo _amman 17 Oct  4 10:21 .
+drwxr-xr-x 6 mal-atoo _amman 63 Oct  4 10:08 ..
+drwxr-xr-x 4 mal-atoo _amman 37 Oct  4 10:21 web
+
+./projects/web:
+total 0
+drwxr-xr-x 4 mal-atoo _amman 37 Oct  4 10:21 .
+drwxr-xr-x 3 mal-atoo _amman 17 Oct  4 10:21 ..
+drwxr-xr-x 2 mal-atoo _amman  6 Oct  4 10:21 backend
+drwxr-xr-x 2 mal-atoo _amman  6 Oct  4 10:21 frontend
+
+./projects/web/backend:
+total 0
+drwxr-xr-x 2 mal-atoo _amman  6 Oct  4 10:21 .
+drwxr-xr-x 4 mal-atoo _amman 37 Oct  4 10:21 ..
+
+./projects/web/frontend:
+total 0
+drwxr-xr-x 2 mal-atoo _amman  6 Oct  4 10:21 .
+drwxr-xr-x 4 mal-atoo _amman 37 Oct  4 10:21 ..
+
+./tools:
+total 0
+drwxr-xr-x 2 mal-atoo _amman  6 Oct  4 10:01 .
+drwxr-xr-x 6 mal-atoo _amman 63 Oct  4 10:08 ..
